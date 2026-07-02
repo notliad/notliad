@@ -7,7 +7,7 @@
   <a href="https://github.com/jusfy"><img alt="Jusfy" src="https://img.shields.io/badge/@jusfy-111827?style=for-the-badge&logo=github"></a>
 </p>
 
-I build web and mobile interfaces with React, React Native, and Next.js, then spend the rest of my energy shaving friction out of developer workflows and try to dabble into gamedev.
+I build web and mobile interfaces, then spend the rest of my energy shaving friction out of developer workflows and try to dabble into gamedev.
 
 ## Featured Work
 
