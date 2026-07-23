@@ -15,8 +15,8 @@ I build web and mobile interfaces, then spend the rest of my energy shaving fric
 | --- | --- | --- |
 | [liftoff](https://github.com/notliad/liftoff) | Cross-platform CLI/TUI that launches dev projects from one command. | Go |
 | [mutui](https://github.com/notliad/mutui) | Open source music player for the terminal. | Rust |
+| [maestr](https://github.com/notliad/maestr) | A lightweight desktop workspace for AI-assisted development. | TypeScript, Rust |
 | [notarchy](https://github.com/notliad/notarchy) | My personal Arch Linux install script inspired by Omarchy. | Shell |
-| [lofi-soundscape-mixer](https://github.com/notliad/lofi-soundscape-mixer) | Lofi radio plus ambient sound mixer for focus sessions. | TypeScript, React, Vite |
 | [notahub](https://github.com/notliad/notahub) | Keyboard-driven TUI for managing projects, tasks, and ideas. | Rust |
 
 ## Toolbox
