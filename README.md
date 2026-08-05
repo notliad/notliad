@@ -18,6 +18,7 @@ I build web and mobile interfaces, then spend the rest of my energy shaving fric
 | [maestr](https://github.com/notliad/maestr) | A lightweight desktop workspace for AI-assisted development. | TypeScript, Rust |
 | [notarchy](https://github.com/notliad/notarchy) | My personal Arch Linux install script inspired by Omarchy. | Shell |
 | [notahub](https://github.com/notliad/notahub) | Keyboard-driven TUI for managing projects, tasks, and ideas. | Rust |
+| [df-smooth-movement](https://github.com/notliad/df-smooth-movement) | Dwarf Fortress smooth movement plugin for DFHack. | C++ |
 
 ## Toolbox
 
